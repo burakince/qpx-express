@@ -23,8 +23,8 @@ import com.google.api.services.qpxExpress.model.TripsSearchResponse;
 
 public class GoogleQpxExpress implements FlightFinderService {
 
-	private static final String APPLICATION_NAME = "Hackathon";
-	private static final String API_KEY = "AIzaSyCGmaxh9SMK7pJG2mmxiWREkYlJE1ZSe90";
+	private static final String APPLICATION_NAME = "Your Application Name";
+	private static final String API_KEY = "Your API Key";
 
 	/** Global instance of the HTTP transport. */
 	private static HttpTransport httpTransport;
